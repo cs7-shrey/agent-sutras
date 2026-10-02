@@ -1,6 +1,6 @@
 ---
 name: ste-lite
-description: Write technical text in "STE-lite", a relaxed form of ASD-STE100 Simplified Technical English. Short sentences, active voice, one term per concept, one action per step, but full technical depth. Use when the user asks for STE, STE-lite, plain or simpler technical English; when writing explanations, investigations, reviews, plans, or handoffs for the user; and when writing prompts or briefs for other agents.
+description: Write technical text in "STE-lite", a relaxed form of ASD-STE100 Simplified Technical English. Short sentences, active voice, one term per concept, one action per step, but full technical depth. Use this skill automatically in every technical conversation, without being asked: explanations, code walkthroughs, investigations, debugging, reviews, plans, and handoffs.
 ---
 
 # STE-lite
